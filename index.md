@@ -5,5 +5,5 @@ title: GovFIRE Legal
 
 Legal documents for GovFIRE.
 
-- [Privacy Policy](/GovFire-legal/privacy-policy)
-- [Terms of Service](/GovFire-legal/terms-of-service)
+- [Privacy Policy](privacy-policy)
+- [Terms of Service](terms-of-service)

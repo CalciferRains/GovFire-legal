@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Privacy Policy
-permalink: /GovFire-legal/privacy-policy
 ---
 
 # Privacy Policy

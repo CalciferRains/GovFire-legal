@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Terms of Service
-permalink: /GovFire-legal/terms-of-service
 ---
 
 # Terms of Service
