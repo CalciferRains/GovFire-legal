@@ -5,7 +5,7 @@
 
 ## Acceptance of Terms
 
-By downloading, installing, or using GovFIRE, you agree to these terms. If you do not agree, do not use the app.
+By downloading, installing, or using GovFIRE, you agree to these terms. If you do not agree, do not use the app. You must be at least 13 years old to use GovFIRE.
 
 ## What GovFIRE Does
 
@@ -37,12 +37,12 @@ All data you enter into GovFIRE is stored locally on your device. We have no acc
 
 ## Changes to These Terms
 
-We may update these terms from time to time. The revised terms will be posted at this URL with an updated effective date. Continued use of the app after changes are posted constitutes acceptance of the revised terms.
+We may update these terms from time to time. The revised terms will be posted at `https://calciferrains.github.io/govfire-legal/terms-of-service` with an updated effective date. Continued use of the app after changes are posted constitutes acceptance of the revised terms.
 
 ## Governing Law
 
-These terms are governed by the laws of the United States and the state in which you reside, without regard to conflict of law principles.
+These terms are governed by the laws of the Commonwealth of Kentucky and applicable federal law, without regard to conflict of law principles.
 
 ## Contact
 
-If you have questions about these terms, contact us at: austinrains5@gmail.com
+If you have questions about these terms, contact us at: calcifer.rains@gmail.com
