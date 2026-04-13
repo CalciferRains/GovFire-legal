@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms of Service
-permalink: /terms-of-service
+permalink: /GovFire-legal/terms-of-service
 ---
 
 # Terms of Service
@@ -43,7 +43,7 @@ All data you enter into GovFIRE is stored locally on your device. We have no acc
 
 ## Changes to These Terms
 
-We may update these terms from time to time. The revised terms will be posted at `https://calciferrains.github.io/govfire-legal/terms-of-service` with an updated effective date. Continued use of the app after changes are posted constitutes acceptance of the revised terms.
+We may update these terms from time to time. The revised terms will be posted at `https://calciferrains.github.io/GovFire-legal/terms-of-service` with an updated effective date. Continued use of the app after changes are posted constitutes acceptance of the revised terms.
 
 ## Governing Law
 

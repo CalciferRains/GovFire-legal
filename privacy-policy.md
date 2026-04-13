@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-permalink: /privacy-policy
+permalink: /GovFire-legal/privacy-policy
 ---
 
 # Privacy Policy
@@ -57,7 +57,7 @@ All financial data entered into the app is stored using Android Keystore-backed 
 
 ## Changes to This Policy
 
-If we update this policy, we will post the revised version at `https://calciferrains.github.io/govfire-legal/privacy-policy` and update the effective date above.
+If we update this policy, we will post the revised version at `https://calciferrains.github.io/GovFire-legal/privacy-policy` and update the effective date above.
 
 ## Contact
 
